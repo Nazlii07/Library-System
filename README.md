@@ -141,11 +141,11 @@ Sisteme ait genel istatistikler görüntülenir.
 
 📞 İletişim
 
-Ad Soyad: Tulpar
+Ad Soyad: Zehra Nazlı Gökmen
 
-E-posta: tulpar@gmail.com
+E-posta: ben.zehranazli07@gmail.com
 
 ▶ YouTube Video
 
 Proje tanıtım videosunu izlemek için:
-📺 
+📺 https://youtu.be/W0l1O9c1fZM
