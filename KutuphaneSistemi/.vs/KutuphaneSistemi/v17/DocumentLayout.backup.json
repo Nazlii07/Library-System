@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\dao\\kullanicilardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\dao\\kullanicilardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\dao\\kitaplardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\dao\\kitaplardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\dao\\islemlerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\dao\\islemlerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\dao\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\dao\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\domain\\kullanicilardomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\domain\\kullanicilardomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\domain\\kitaplardomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\domain\\kitaplardomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\domain\\islemlerdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\domain\\islemlerdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|c:\\users\\zehra nazl\u0131 g\u00F6kmen\\desktop\\nyp\\kutuphanesistemi\\kutuphanesistemi\\service\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\uyelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\uyelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\raporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\raporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\odunclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\odunclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\odunc\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\odunc\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kullaniciolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kullaniciolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\islemlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\islemlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\raporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\raporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\odunclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\odunclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\odunc\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\odunc\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\uyelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\uyelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kitaplarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kitaplarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kullanicilarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kullanicilarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\uyelistele.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\uyelistele.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\anamenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\anamenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\kutuphanesistemi\\service\\kullaniciolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2439229E-5299-491D-AC50-26044C4D9236}|KutuphaneSistemi\\KutuphaneSistemi.csproj|solutionrelative:kutuphanesistemi\\service\\kullaniciolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kitaplarDOMAIN.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DOMAIN\\kitaplarDOMAIN.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DOMAIN\\kitaplarDOMAIN.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DOMAIN\\kitaplarDOMAIN.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DOMAIN\\kitaplarDOMAIN.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:23:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kullanicilarDOMAIN.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DOMAIN\\kullanicilarDOMAIN.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DOMAIN\\kullanicilarDOMAIN.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DOMAIN\\kullanicilarDOMAIN.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DOMAIN\\kullanicilarDOMAIN.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:23:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\DbBaglanti.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DAO\\DbBaglanti.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\DbBaglanti.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DAO\\DbBaglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:31:50.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "islemlerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\islemlerDAO.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DAO\\islemlerDAO.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\islemlerDAO.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DAO\\islemlerDAO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwL0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:23:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kitaplarDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\kitaplarDAO.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DAO\\kitaplarDAO.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\kitaplarDAO.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DAO\\kitaplarDAO.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:23:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kullanicilarDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\kullanicilarDAO.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DAO\\kullanicilarDAO.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DAO\\kullanicilarDAO.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DAO\\kullanicilarDAO.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA1wIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:22:35.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "islemlerDOMAIN.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DOMAIN\\islemlerDOMAIN.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\DOMAIN\\islemlerDOMAIN.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\DOMAIN\\islemlerDOMAIN.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\DOMAIN\\islemlerDOMAIN.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:23:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "anaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\anaMenu.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\anaMenu.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\anaMenu.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\anaMenu.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAASwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:09:35.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "anaMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\anaMenu.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\anaMenu.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\anaMenu.cs [Design]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\anaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:50:10.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "uyeListele.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeListele.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\uyeListele.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeListele.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\uyeListele.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:54:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "uyeEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeEkle.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\uyeEkle.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\uyeEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:08:00.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "raporlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\raporlar.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\raporlar.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\raporlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\raporlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T18:36:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "oduncListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\oduncListesi.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\oduncListesi.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\oduncListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\oduncListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:38:44.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "odunc\u0130slemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:45:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\login.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\login.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:17:08.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "kullaniciOlusturma.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:10:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "kitapListele.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kitapListele.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\kitapListele.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kitapListele.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\kitapListele.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:17:12.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kitaplar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\Kitaplar.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\Kitaplar.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\Kitaplar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\Kitaplar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:36:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\login.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\login.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\login.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\login.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:34:21.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "islemlerSERVICE.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\islemlerSERVICE.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\islemlerSERVICE.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\islemlerSERVICE.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\islemlerSERVICE.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:24:23.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "raporlar.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\raporlar.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\raporlar.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\raporlar.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\raporlar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T18:49:37.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "oduncListesi.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\oduncListesi.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\oduncListesi.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\oduncListesi.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\oduncListesi.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:57:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "odunc\u0130slemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\odunc\u0130slemleri.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:08:52.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "uyeListele.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeListele.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\uyeListele.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeListele.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\uyeListele.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:04:30.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "kitaplarSERVICE.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kitaplarSERVICE.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\kitaplarSERVICE.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kitaplarSERVICE.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\kitaplarSERVICE.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:24:14.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "kullanicilarSERVICE.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kullanicilarSERVICE.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\kullanicilarSERVICE.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kullanicilarSERVICE.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\kullanicilarSERVICE.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:24:04.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "kitapListele.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kitapListele.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\kitapListele.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kitapListele.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\kitapListele.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAhwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:31:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "uyeEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeEkle.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\uyeEkle.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeEkle.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\uyeEkle.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAlwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:25:19.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "uyeListele.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeListele.Designer.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\uyeListele.Designer.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\uyeListele.Designer.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\uyeListele.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAhwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:05:16.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "anaMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\anaMenu.Designer.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\anaMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\anaMenu.Designer.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\anaMenu.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAhwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:27:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Kitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\Kitaplar.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\Kitaplar.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\Kitaplar.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\Kitaplar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:47:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\Program.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:52:25.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "kullaniciOlusturma.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs",
+              "RelativeDocumentMoniker": "KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs",
+              "ToolTip": "C:\\Users\\Zehra Nazl\u0131 G\u00F6kmen\\Desktop\\NYP\\KutuphaneSistemi\\KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs",
+              "RelativeToolTip": "KutuphaneSistemi\\SERVICE\\kullaniciOlusturma.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:22:44.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
